@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Making Games from Scratch
 
 You can use the [editor on GitHub](https://github.com/ashattefeduni/making-games-from-scratch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

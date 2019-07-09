@@ -1,12 +1,16 @@
 ## Making Games from Scratch
 
-You can use the [editor on GitHub](https://github.com/ashattefeduni/making-games-from-scratch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Today you will work to create a simple game using MIT Scratch, which is a drag-and-drop programming environment in which you will connect blocks to make your program work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The game that we will be creating is based on Snake – you may have played a similar game before!
 
-### Markdown
+### 1. Getting Started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Download Scratch Portable
+
+### 2. The Scratch Editor
+
+The Scratch editor should be open on your computer. The left-hand area contains the “stage”, where you will be able to view your program when it runs. You can also modify the images (known as sprites) which you will modify to create the game. The palette of blocks in the centre are used to create the logic of your program. Drag blocks into the area on the right-hand area to start building your program.
 
 ```markdown
 Syntax highlighted code block

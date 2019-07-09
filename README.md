@@ -12,6 +12,8 @@ The game that we will be creating is based on Snake – you may have played a si
 
 The Scratch editor should be open on your computer. The left-hand area contains the “stage”, where you will be able to view your program when it runs. You can also modify the images (known as sprites) which you will modify to create the game. The palette of blocks in the centre are used to create the logic of your program. Drag blocks into the area on the right-hand area to start building your program.
 
+![Image](img/scratch-editor.png)
+
 ```markdown
 Syntax highlighted code block
 
